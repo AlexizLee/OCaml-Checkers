@@ -1,2 +1,3 @@
 # OCaml-Checkers
-Executable file of Ocaml Checkers
+Play Checkers with a friend or an AI!
+Only executable in mac.
